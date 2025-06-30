@@ -1,4 +1,4 @@
-## Object based image classification using Randon Forest (RF) and Support Vector Machine (SVM)
+## Object based image classification using Random Forest (RF) and Support Vector Machine (SVM)
 
 Object-based image classification is a crucial technique in remote sensing that groups pixels into meaningful objects before classification, improving accuracy over pixel-based methods. This project extends an existing classification workflow by incorporating Random Forest (RF) and Support Vector Machine (SVM) classifiers for enhanced land cover classification.
 
